@@ -11,7 +11,7 @@
  *
  * @return - invocationResult
  */
- 
+ // test comment 
 // var procedure1Statement = "select COLUMN1, COLUMN2 from TABLE1 where COLUMN3 = ?";
 // function procedure1(param) {
 // 	return MFP.Server.invokeSQLStatement({
