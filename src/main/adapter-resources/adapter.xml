@@ -38,7 +38,7 @@
 	</connectivity>
 
 	<!-- Replace this with appropriate procedures -->
-	<procedure name="procedure1"/>
+	<!-- <procedure name="procedure1"/> -->
 	<procedure name="procedure2"/>
 	<procedure name="getTestTableData"/>
 	<procedure name="unprotected" secured="false"/>
